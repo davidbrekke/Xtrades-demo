@@ -1,0 +1,27 @@
+.sort-selected {
+  display: flex;
+  margin-left: 13px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.3px;
+  color: #647189;
+}
+.sort {
+  width: 197px;
+  height: 40px;
+  background: #f5f8fb;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+.sort img {
+  margin-right: 15px;
+}
+.sort-by {
+  margin-left: 5px;
+  color: rgb(162, 177, 195);
+}
